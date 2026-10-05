@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi, I'm Sebhanshu 👋
+
+🎓 CSE Student | ☕ Java Developer in Progress
+
+Currently learning:
+ - Java & OOP
+ - Data Structures & Algorithms
+ - SQL & Databases
+ - HTML, CSS & JavaScript
+
+🎯 Goal: Become a Software Developer
 
 <!--
 **sebhanshupandey101/sebhanshupandey101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
